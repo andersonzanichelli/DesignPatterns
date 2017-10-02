@@ -1,3 +1,3 @@
-h2. Design Patterns
+##Design Patterns
 
-Implementations of examples about the Design Patterns
+Implementations of examples about the **Design Patterns**

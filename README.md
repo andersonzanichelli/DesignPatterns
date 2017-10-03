@@ -9,3 +9,5 @@ Implementations of examples about the **Design Patterns**
 [Strategy](Strategy)
 
 [FactoryMethod](FactoryMethod)
+
+[AbstractFactoryMethod](AbstractFactoryMethod)

@@ -2,7 +2,7 @@
 
 Strategy lets the algorithm vary independently from clients that use it.
 
-image
+![Strategy Pattern](uml.gif?raw=true "Strategy Pattern")
 
 ```
 @Test
